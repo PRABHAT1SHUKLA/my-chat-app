@@ -6,7 +6,7 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Next.js Chat App',
+  title: 'Chat App',
   description: 'A real-time chat application built with Next.js, TypeScript, and Socket.io',
 };
 
