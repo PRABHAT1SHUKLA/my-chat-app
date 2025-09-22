@@ -1,4 +1,4 @@
-// types/index.ts - Type definitions for our chat app
+
 
 export interface User {
   id: string;
